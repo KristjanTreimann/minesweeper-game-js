@@ -15,21 +15,6 @@
 	background: orange;
 }
 
-table {
-	width: 200px;
-	height: 200px;
-	border-collapse: collapse;
-	font-size: 1rem;
-	margin-top: 10px;
-}
-
-
-td {
-	width: 10px;
-	height: 10px;
-}
-
-td:nth-child(1n) {
-	border-right: 1px lightgray solid;
-	border-bottom: 1px solid lightgray;
+.checked {
+	background: red;
 }
